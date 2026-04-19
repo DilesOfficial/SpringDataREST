@@ -1,4 +1,4 @@
-package com.dilusha.springbootrest.model;
+package com.dilusha.springdatarest.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

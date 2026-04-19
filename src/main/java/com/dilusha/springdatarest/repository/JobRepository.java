@@ -1,4 +1,4 @@
-package com.dilusha.springbootrest.repository;
+package com.dilusha.springdatarest.repository;
 
 import com.dilusha.springbootrest.model.JobPost;
 import org.springframework.data.jpa.repository.JpaRepository;
